@@ -1,3 +1,3 @@
 # Redirect all pages to howdybreakfastbunswith a 301
 # Documentation at https://docs.netlify.com/routing/redirects/
-/*         https://www.howdybreakfastbuns.com              301
+/*         https://www.howdybreakfastbuns.com/?r=1              301
